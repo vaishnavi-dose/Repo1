@@ -1,10 +1,11 @@
 package oops;
 
-public class Rectangle extends Area{
-	public static void main(String args[])
-	{
+public class Rectangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		System.out.println("I am Rectangle");
-		
+
 	}
 
 }
