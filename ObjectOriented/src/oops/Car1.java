@@ -14,4 +14,10 @@ public class Car1 extends Car{
 		return 0;
 	}
 
+	@Override
+	char tyres() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
