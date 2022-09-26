@@ -22,6 +22,7 @@ public abstract class Car extends Vehicles {
 
 	abstract String brand();
 	abstract int reg_no();
+	abstract char tyres();
 
 	
 
