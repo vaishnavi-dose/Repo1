@@ -1,6 +1,6 @@
 package oops;
 
-public class Car extends Vehicles {
+public abstract class Car extends Vehicles {
 
 	@Override
 	int number() {
@@ -20,7 +20,8 @@ public class Car extends Vehicles {
 		return 0;
 	}
 
-	
+	abstract String brand();
+	abstract int reg_no();
 
 	
 
