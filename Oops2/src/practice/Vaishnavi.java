@@ -20,4 +20,10 @@ public class Vaishnavi implements Skeleton,IQ {
 		System.out.println("I am Fair");
 	}
 
+	@Override
+	public void shape() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
