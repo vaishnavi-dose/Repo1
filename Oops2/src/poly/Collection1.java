@@ -10,34 +10,22 @@ public class Collection1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ArrayList<String> list= new ArrayList<String>();
 		
-		list.add("a");
-		list.add("b");
-		list.add("b");
-		list.add("c");
-		list.add("c");
-		list.add("c");
-		list.add("d");
-		list.add("d");
-		list.add("d");
-		list.add("d");
-		
-		//System.out.println(list.get(0));
-		System.out.println(list);
-		
-		Set<String> set=new HashSet<String>();
-		Set set2=new HashSet();
-		
-		set.add("a");
-		set.add("a");
-		set.add("b");
-		
-		set2.add("x");
-		set2.add(5);
-		
-		System.out.println(set);
-		System.out.println(set2);
+		  ArrayList<String> list= new ArrayList<String>();
+		  
+		  list.add("a"); list.add("b"); list.add("b"); list.add("c"); list.add("c");
+		  list.add("c"); list.add("d"); list.add("d"); list.add("d"); list.add("d");
+		  
+		  //System.out.println(list.get(0)); System.out.println(list);
+		  
+		  Set<String> set=new HashSet<String>(); Set set2=new HashSet();
+		  
+		  set.add("a"); set.add("a"); set.add("b");
+		  
+		  set2.add("x"); set2.add(5);
+		  
+		  System.out.println(set); System.out.println(set2);
+		 
 		
 		Map<String, Integer> hm
 		= new HashMap<String, Integer>();
