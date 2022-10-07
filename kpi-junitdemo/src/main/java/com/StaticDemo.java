@@ -5,9 +5,9 @@ public class StaticDemo extends Student {
 	  
 	public StaticDemo(String name)
 	{
-	super(name);
-	// TODO Auto-generated constructor stub
-}
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
 
 	public static void main(String[] args)
 	{

@@ -4,7 +4,6 @@ package com;
 interface Sayable{  
     void say(); 
 }  
-
 @FunctionalInterface
 interface Sayable2{  
     void say();  

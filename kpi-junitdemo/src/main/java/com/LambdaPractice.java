@@ -3,7 +3,6 @@ package com;
 interface MathOperation{
 	int operation(int a, int b);
 }
-
 public class LambdaPractice {
 	
 	private int operate(int a, int b, MathOperation mathOperation) {

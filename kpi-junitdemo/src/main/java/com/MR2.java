@@ -13,3 +13,4 @@ int result = adder.apply(10, 20);
 System.out.println(result);  
 }  
 }
+

@@ -14,3 +14,4 @@ public class PrimeNumber
 		return "Prime Number";
 	}
 }
+

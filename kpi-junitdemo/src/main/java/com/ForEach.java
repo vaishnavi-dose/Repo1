@@ -7,6 +7,7 @@ import java.util.List;
 interface TestForEach{
 	void print (List test);
 }
+
 public class ForEach {
 
 	public static void main(String[] args) {

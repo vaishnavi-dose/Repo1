@@ -11,3 +11,4 @@ public class PrimeNoTest
 		assertEquals("Prime Number", sol);
 	}
 }
+

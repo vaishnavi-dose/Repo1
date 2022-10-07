@@ -21,6 +21,7 @@ class Student {
 		this.rollNo = setRollNo();//
 	}
 
+	
 	// getting unique rollNo
 	// through static variable(counter)
 	 int setRollNo()
